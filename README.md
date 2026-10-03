@@ -43,12 +43,14 @@ Figma - design das telas
 Arquitetura
 Aplicação modular, com telas independentes acessadas por uma barra de navegação inferior. Cada funcionalidade é implementada em classes dedicadas, separando responsabilidades e facilitando a reutilização de código.
 
-Como executar
-bash
+# Como executar
+
+```bash
 flutter pub get
 flutter run
+```
 
-Equipe:
+# Equipe:
 - João Gabriel Mendonça Geraime Teodoro
 - Luís Felipe Henrique Campelo
 - Lucas Meira Duque
