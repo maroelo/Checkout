@@ -1,0 +1,182 @@
+[
+  {
+    "nome": "Arroz Branco 5kg",
+    "codigo_barras": "7891025111111",
+    "preco": 28.90,
+    "promocao": false
+  },
+  {
+    "nome": "Feijão Carioca",
+    "codigo_barras": "7891025222222",
+    "preco_por_kg": 7.49,
+    "promocao": true
+  },
+  {
+    "nome": "Óleo de Soja",
+    "codigo_barras": "7891025333333",
+    "preco": 8.99,
+    "promocao": false
+  },
+  {
+    "nome": "Leite Integral 1L",
+    "codigo_barras": "7891025444444",
+    "preco": 4.79,
+    "promocao": true
+  },
+  {
+    "nome": "Farinha de Trigo",
+    "codigo_barras": "7891025555555",
+    "preco_por_kg": 3.99,
+    "promocao": false
+  },
+  {
+    "nome": "Açúcar Refinado",
+    "codigo_barras": "7891025666666",
+    "preco_por_kg": 2.89,
+    "promocao": true
+  },
+  {
+    "nome": "Café Torrado e Moído",
+    "codigo_barras": "7891025777777",
+    "preco": 13.49,
+    "promocao": false
+  },
+  {
+    "nome": "Margarina 500g",
+    "codigo_barras": "7891025888888",
+    "preco": 5.99,
+    "promocao": true
+  },
+  {
+    "nome": "Biscoito Recheado",
+    "codigo_barras": "7891025999999",
+    "preco": 2.39,
+    "promocao": false
+  },
+  {
+    "nome": "Refrigerante 2L",
+    "codigo_barras": "7891025110000",
+    "preco": 6.89,
+    "promocao": true
+  },
+  {
+    "nome": "Pão de Forma",
+    "codigo_barras": "7891025221111",
+    "preco": 8.29,
+    "promocao": false
+  },
+  {
+    "nome": "Queijo Mussarela",
+    "codigo_barras": "7891025332222",
+    "preco_por_kg": 29.99,
+    "promocao": true
+  },
+  {
+    "nome": "Presunto Fatiado",
+    "codigo_barras": "7891025443333",
+    "preco_por_kg": 24.99,
+    "promocao": false
+  },
+  {
+    "nome": "Detergente Líquido",
+    "codigo_barras": "7891025554444",
+    "preco": 2.19,
+    "promocao": true
+  },
+  {
+    "nome": "Sabão em Pó",
+    "codigo_barras": "7891025665555",
+    "preco": 15.49,
+    "promocao": false
+  },
+  {
+    "nome": "Papel Higiênico 12 Rolos",
+    "codigo_barras": "7891025776666",
+    "preco": 19.99,
+    "promocao": true
+  },
+  {
+    "nome": "Shampoo 400ml",
+    "codigo_barras": "7891025887777",
+    "preco": 12.49,
+    "promocao": false
+  },
+  {
+    "nome": "Condicionador 400ml",
+    "codigo_barras": "7891025998888",
+    "preco": 12.49,
+    "promocao": true
+  },
+  {
+    "nome": "Sabonete em Barra",
+    "codigo_barras": "7891025119999",
+    "preco": 1.89,
+    "promocao": false
+  },
+  {
+    "nome": "Frango Congelado",
+    "codigo_barras": "7891025228888",
+    "preco_por_kg": 9.99,
+    "promocao": true
+  },
+  {
+    "nome": "Carne Moída",
+    "codigo_barras": "7891025337777",
+    "preco_por_kg": 29.99,
+    "promocao": false
+  },
+  {
+    "nome": "Peito de Frango",
+    "codigo_barras": "7891025446666",
+    "preco_por_kg": 14.99,
+    "promocao": true
+  },
+  {
+    "nome": "Iogurte Natural 170g",
+    "codigo_barras": "7891025555556",
+    "preco": 1.99,
+    "promocao": false
+  },
+  {
+    "nome": "Manteiga 200g",
+    "codigo_barras": "7891025666667",
+    "preco": 9.49,
+    "promocao": true
+  },
+  {
+    "nome": "Cerveja Lata 350ml",
+    "codigo_barras": "7891025777778",
+    "preco": 3.99,
+    "promocao": false
+  },
+  {
+    "nome": "Vinho Tinto 750ml",
+    "codigo_barras": "7891025888889",
+    "preco": 5800.00,
+    "promocao": true
+  },
+  {
+    "nome": "Água Mineral 1.5L",
+    "codigo_barras": "7891025999990",
+    "preco": 2.29,
+    "promocao": false
+  },
+  {
+    "nome": "Maçã Gala",
+    "codigo_barras": "7891025118888",
+    "preco_por_kg": 5.99,
+    "promocao": true
+  },
+  {
+    "nome": "Banana Nanica",
+    "codigo_barras": "7891025227777",
+    "preco_por_kg": 3.49,
+    "promocao": false
+  },
+  {
+    "nome": "Cenoura",
+    "codigo_barras": "7891025336666",
+    "preco_por_kg": 4.29,
+    "promocao": true
+  }
+]
